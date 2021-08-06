@@ -1,5 +1,4 @@
 # Tamil Marx Readers Club
-<hr>
 
 |Book Name | Writer Info |Tamil  | English|
 |--|--|--|--|
