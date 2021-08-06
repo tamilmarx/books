@@ -2,7 +2,7 @@
 
 |Book Name | Writer Info |Tamil  | English|
 |--|--|--|--|
-| **குடும்பம் தனிச்சொத்து அரசு ஆகியவற்றின் தோற்றம்** | பிரெடெரிக் எங்கல்ஸ் | [Read Now](https://github.com/tamilmarx/books/blob/main/kudumbam_thanisothu_arasu_aagiyavatrin_thotram.pdf) |[Read Now](https://readingfromtheleft.com/PDF/EngelsOrigin.pdf)|
+| **குடும்பம் தனிச்சொத்து அரசு ஆகியவற்றின் தோற்றம்** | பிரெடெரிக் எங்கல்ஸ் | [Read Now](http://www.tamilcircle.net/document/MarxistBookCollections/m000017.pdf) |[Read Now](https://readingfromtheleft.com/PDF/EngelsOrigin.pdf)|
 | **கம்யூனிஸ்டுக் கட்சி அறிக்கை**| கார்ல் மார்க்ஸ், ஃபிரெடெரிக் ஏங்கெல்ஸ் |[Read Now](https://ia600105.us.archive.org/13/items/CommunistManifestoInTamil/Communist_Manifesto_in_Tamil.pdf)|[Read Now](https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf)|
 
 
